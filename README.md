@@ -1,5 +1,6 @@
 
 ## Abstract
+Demo: https://youtu.be/VWsc6F0CX60
 In this project, I developed a maze solver using the search algorithms: depth-first search (DFS), breadth-first search (BFS), and A* search. 
 The maze solver finds the shortest path from a start point to a target point within a maze grid. Mazes are represented using a custom Maze class, with Cells representing individual grid points.
 
